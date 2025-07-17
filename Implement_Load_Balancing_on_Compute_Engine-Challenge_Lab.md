@@ -1,7 +1,5 @@
 # Implement Load Balancing on Compute Engine: Challenge Lab
 
-## Solution [here](https://youtu.be/8JjC9tv2T-w)
-
 ### Set Variables
 ```
 export INSTANCE=nucleus-jumphost-634
